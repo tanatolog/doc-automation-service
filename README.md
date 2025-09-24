@@ -12,7 +12,7 @@ Recognizes individual fields on document images and securely stores data in a da
 - [Installation](#installation--установка)
 - [Usage](#usage--использование)
 - [Technologies](#technologies--технологии)
-- [Full documentation](#full-documentation--расширенная-документация)
+- [Technical documentation](#technical-documentation--техническая-документация)
 - [License](#license)
 
 ## Features / Возможности
@@ -106,7 +106,7 @@ python src/application.py
 - SQLCipher3
 - CUDA
 
-## Full documentation / Расширенная документация
+## Technical documentation / Техническая документация
 
 ### Русский
 Сервис состоит из 5 модулей:
